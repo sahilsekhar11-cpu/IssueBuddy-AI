@@ -1,0 +1,1 @@
+**IssueBuddy AI** is an AI-powered application that uses Gemma 4 to generate intelligent answers to user queries, while ChromaDB stores and manages data for efficient information retrieval. By combining AI-powered response generation with persistent data storage, IssueBuddy AI delivers a smarter and more organized question-answering experience.
